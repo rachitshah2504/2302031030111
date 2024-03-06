@@ -1,0 +1,82 @@
+.header {
+    overflow: hidden;
+    background-color: white;
+    padding: 10px 10px;
+  }
+  
+  /* Style the header links */
+  .header a {
+    float: left;
+    color: #C8626D;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+  .header a.logo {
+    font-size: 35px;
+    font-weight: bold;
+  }
+  
+  /* Change the background color on mouse-over */
+  .header a:hover {
+    background-color: #ddd;
+    color: #C8626D;
+  }
+  
+  /* Float the link section to the right */
+  .header-right {
+    float: right;
+    margin-right: 200px;
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  
+
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #C8626D;
+  }
+  
+  
+  .topnav .search-container {
+    text-align: center;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    text-align: center;
+    background: #ddd;
+    font-size: 17px;
+    cursor: pointer;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #ccc;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav .search-container {
+      float: none;
+    }
+  
+    .topnav input[type=text] {
+      border: 3px solid #ccc;  
+    }
+  }
+
+  

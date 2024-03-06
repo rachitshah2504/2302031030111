@@ -1,0 +1,87 @@
+.cd{
+    text-align: center;
+    background: #EDD0C0;
+    color: #C8626D;
+    padding-top: 05px;
+    padding-bottom: 05px;
+  }
+
+.rks{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.cake{
+    margin-top: 40px;
+    display: block;
+    box-sizing: border-box;
+    box-shadow: 0 0 20px black;
+    border-radius: 20px;
+    /* border: 10px solid white; */
+    width: 350px;
+    background: white;
+    text-align: center;
+    margin-left: 30px;
+    height: 400px;
+}
+
+.cake1{
+    margin-top: 10px;
+    padding-top: 20px;
+    
+}
+
+.cake2{
+    margin-top: 10px;
+    
+    padding-top: 20px;
+}
+
+.cake3{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake4{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake5{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake6{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake7{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake8{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake9{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake10{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake11{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.cake12{
+    margin-top: 10px;
+    padding-top: 20px;
+}
